@@ -1,0 +1,37 @@
+Hello,
+
+I need a website for online learning.
+
+Which includes how to enter a written text and also has a multiple choice variant.
+
+-It should:
+
+- an admin panel with its own access e.g. schoolonline.com/adminlogin (so no one logs in accidentally)
+- only the first lesson should be free for testing, after that it is chargeable and 
+   must be purchased with 2 options once for 1 year and once lifetime prices changeable
+- a teacher panel with its own access, e.g. schoolonline.com/teacherlogin
+- a student panel
+- a login with encrypt variant
+- it should be displayed what the student has already done in "%"
+- Students should be able to be assigned to the teacher
+- After the last question there should be a list with all answers listed above which are wrong it should show in "%" of all 
+   questions are correct
+- In the admin panel it should be possible to create and delete students as well as create / delete teachers, 
+  and it should also be possible to create new lessons
+  and can ask the questions and choose whether there is a written text to enter or is a multiple choice.
+- A payment provider should be integrated e.g. Fastspring ( Since the company is based in Bosnia )
+- A contact form directly to the admin
+- Forgot Password feature is required
+- Darkmode change should be there
+- Questions / chapters should be able to be inserted and deleted in the admin center
+
+
+- Design are provided with pictures
+
+HTML, CSS, PHP, JS, NODE JS, MYSQL is required.
+
+Can you imagine doing this task?
+
+Please write an approximate cost estimate for your site right away, as the project is scheduled to begin soon.
+
+LG Benjamin
